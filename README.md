@@ -1,5 +1,5 @@
-# C867
-Student Roster Program
+# Student Roster Program
+C867
 
 A program to keep track of a Student or Team Roster made using C++.
 
